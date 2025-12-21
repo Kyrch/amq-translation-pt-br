@@ -14,19 +14,19 @@ After forking, navigate to the `pt-BR.json` file in your forked repository.
 
 2. Click the **pencil icon** in the top-right corner to start editing the file.
 
-![Step 2](./img/1.jpg)
+![Step 2](./img/2.jpg)
 
 3. Edit the translations as needed.
 When finished, click “**Commit changes…**” in the top-right corner.
 
-![Step 3](./img/1.jpg)
+![Step 3](./img/3.jpg)
 
 4. Write a clear commit message describing your changes.
 Select “Create a new branch for this commit” if you haven’t already.
 Click “Propose changes”.
 
-![Step 4](./img/1.jpg)
+![Step 4](./img/4.jpg)
 
 5. Click “**Create Pull Request**” and wait for your changes to be reviewed and accepted.
 
-![Step 5](./img/1.jpg)
+![Step 5](./img/5.jpg)
