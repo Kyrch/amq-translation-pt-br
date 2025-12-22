@@ -335,8 +335,8 @@
 			"complete_registration": "Completar Cadastro",
 			"complete_registration_message": "Para completar o cadastro, por favor verifique o email enviado para _BOLD_ _EMAIL_ _BOLD_"
 		},
-		"MISSING-cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies.",
-		"MISSING-cookie_learn_more": "Learn More"
+		"cookie_disclaimer": "Este site usa cookies para armazenar configurações locais, como volume da música e último nome usado no login. Serviços de terceiros usados pelo site podem também armazenar cookies. Para mais detalhes, veja a Seção de Cookie da Política de Privacidade. Ao continuar usando o site, você concorda que o site pode armazenar estes cookies.",
+		"cookie_learn_more": "Saiba mais"
 	},
 	"login_page": {
 		"ui": {
@@ -356,7 +356,7 @@
 				"title": "Entrar como Visitante",
 				"error_title": "Erro ao entrar como visitante",
 				"error_disabled": "Não é possível jogar como visitante no momento",
-				"MISSING-text2": "By creating a guest account you agree to the _LINK_ Terms of Service _LINK_ and _LINK2_ Privacy Policy _LINK2_.",
+				"text2": "Ao criar uma conta de visitante, você concorda com os _LINK_ Termos de Serviço _LINK_ e com a _LINK2_ Política de Privacidade _LINK2_.",
 				"DELETED-text": "Ao entrar como visitante, você concorda com os _LINK_ Termos de Serviço _LINK_ e com a _LINK_ Política de Privacidade _LINK_."
 			},
 			"select_country": "Por favor selecione seu país de residência",
@@ -638,23 +638,23 @@
 			}
 		},
 		"amq_funding": {
-			"MISSING-title": "AMQ Funding",
+			"title": "Financiamento do AMQ",
 			"month": {
-				"MISSING-january": "January Result",
-				"MISSING-february": "February Result",
-				"MISSING-march": "March Result",
-				"MISSING-april": "April Result",
-				"MISSING-may": "May Result",
-				"MISSING-june": "June Result",
-				"MISSING-july": "July Result",
-				"MISSING-august": "August Result",
-				"MISSING-september": "September Result",
-				"MISSING-october": "October Result",
-				"MISSING-november": "November Result",
-				"MISSING-december": "December Result"
+				"january": "Resultado de Janeiro",
+				"february": "Resultado de Fevereiro",
+				"march": "Resultado de Março",
+				"april": "Resultado de Abril",
+				"may": "Resultado de Maio",
+				"june": "Resultado de Junho",
+				"july": "Resultado de Julho",
+				"august": "Resultado de Agosto",
+				"september": "Resultado de Setembro",
+				"october": "Resultado de Outubro",
+				"november": "Resultado de Novembro",
+				"december": "Resultado de Dezembro"
 			},
-			"MISSING-yearly": "Yearly Result",
-			"MISSING-description": "The funding results from last month and overall for the year. AMQ is completely community funded which pays for the server and development costs. All money earned goes to continue improving and expanding the game, thanks for all the support!"
+			"yearly": "Resultado Anual",
+			"description": "Os resultados do financiamento do último mês e do ano em geral. AMQ é completamente financiado pela comunidade, o qual cobre os custos do servidor e de desenvolvimento. Todo dinheiro arrecadado vai para continuar melhorando e expandindo o jogo, obrigado por todo o apoio!"
 		}
 	},
 	"menu_bar": {
@@ -749,10 +749,10 @@
 			"check_availability": "Checar Disponibilidade",
 			"MISSING-new_nickname": "New Nickname",
 			"change_message": {
-				"MISSING-title": "Change Nickname to _NAME_",
-				"MISSING-text": "Ones changed you can't go back to your current name without using a name change token"
+				"MISSING-title": "Mudar nome de usuário para _NAME_",
+				"MISSING-text": "Assim que alterado, você não pode voltar para seu nome atual sem usar uma ficha de mudança de nome"
 			},
-			"MISSING-nickname_available": "Nickname Available",
+			"MISSING-nickname_available": "Nome de Usuário Disponível",
 			"nickname_not_available": {
 				"MISSING-title": "Nickname Not Available",
 				"MISSING-already_in_use": "This nickname is already in use",
@@ -999,7 +999,7 @@
 			"openings": "Aberturas",
 			"endings": "Encerramentos",
 			"inserts": "Inserções",
-			"unwatched": { "title": "Não-Assistido", "description": "Vídeos de animes que você não assistiu" },
+			"unwatched": { "title": "Não Assistido", "description": "Vídeos de animes que você não assistiu" },
 			"high_risk": {
 				"title": "Alto Risco",
 				"description": "Vídeos que possivelmente contêm spoilers ou que são para maiores de dezoito anos. Baseado em estatísticas dos jogadores"
@@ -1182,7 +1182,7 @@
 		"filters": {
 			"locked": {
 				"description": "Mostra o conteúdo que você não desbloqueou",
-				"MISSING-title": "Locked",
+				"title": "Bloqueado",
 				"DELETED-Mtitle": "Bloqueado"
 			},
 			"unlocked": { "title": "Desbloqueado", "description": "Mostra o conteúdo que você desbloqueou" },
@@ -1204,35 +1204,35 @@
 				"description": "Mostra conteúdo desbloqueado através dos sistemas de ticket"
 			},
 			"standard": { "title": "Padrão", "description": "Mostra conteúdo desbloqueável com notas" },
-			"MISSING-title": "Filters"
+			"title": "Filtros"
 		},
-		"MISSING-background": "Background",
-		"toggle": { "MISSING-on": "Toggle On", "MISSING-off": "Toggle Off" },
-		"MISSING-poses": "Poses",
+		"background": "Plano de Fundo",
+		"toggle": { "on": "Ligar", "off": "Desligar" },
+		"poses": "Poses",
 		"pose_names": {
-			"MISSING-base": "Base",
-			"MISSING-thinking": "Thinking",
-			"MISSING-waiting": "Waiting",
-			"MISSING-no_answer": "No Answer",
-			"MISSING-correct": "Correct",
-			"MISSING-wrong": "Wrong"
+			"base": "Base",
+			"thinking": "Pensando",
+			"waiting": "Esperando",
+			"no_answer": "Sem Resposta",
+			"correct": "Correto",
+			"wrong": "Errado"
 		},
 		"avatar_action_button": {
-			"MISSING-active": "Active",
-			"MISSING-missing_skin": "Missing Skin Bonus",
-			"MISSING-background_locked": "Background Locked",
-			"MISSING-use": "Use",
-			"MISSING-unavailable": "Unavailable",
-			"MISSING-decoration_not_unlocked": "Decoration Not Unlocked",
-			"MISSING-unlock": "Unlock"
+			"active": "Ativo",
+			"missing_skin": "Bônus de Skin Faltando",
+			"background_locked": "Plano de Fundo Bloqueado",
+			"use": "Usar",
+			"unavailable": "Indisponível",
+			"decoration_not_unlocked": "Decoração Não Desbloqueada",
+			"unlock": "Desbloquear"
 		},
 		"avatar_bonus": {
-			"MISSING-title": "Avatar Bonus",
-			"MISSING-description": "Unlock 10 different skins/versions for this avatar to earn its badge"
+			"title": "Bônus de Avatar",
+			"description": "Desbloqueie 10 skins/versões diferentes deste avatar para ganhar sua medalha"
 		},
 		"skin_bonus": {
-			"MISSING-title": "Skin Bonus",
-			"MISSING-description": "Unlock 10 different versions of this skin to unlock its backgrounds for other avatars"
+			"title": "Bônus de Skin",
+			"description": "Desbloqueie 10 versões diferentes desta skin para desbloquear seus planos de fundo para outros avatares"
 		},
 		"MISSING-world": "World",
 		"MISSING-artist": "Artist",
