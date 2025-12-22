@@ -467,7 +467,7 @@
 		"name_glow": "Brilho do Nome",
 		"hidden": "Ocultado",
 		"account_creation": "Data de Registro",
-		"songs_played": "Musicas Jogadas",
+		"songs_played": "Músicas Jogadas",
 		"guess_rate": "Taxa de Acerto",
 		"options": "Opções",
 		"edit": "Editar",
@@ -703,7 +703,7 @@
 		},
 		"anime_names": {
 			"title": "Nome dos Animes",
-			"MISSING-description": "Mostra no idioma escolhido o nome dos animes mostrados nos quizzes",
+			"description": "Mostra no idioma escolhido o nome dos animes mostrados nos quizzes",
 			"english": "Inglês",
 			"romaji": "Japonês (Romaji)"
 		},
@@ -738,9 +738,9 @@
 			"description": "Conecte sua lista do AniList, MyAnimeList ou Kitsu, e o jogo usará sua lista de anime ao escolher jogar quizzes com a configuração ativa para animes “assistidos”. _BREAK_ Listas são atualizadas semanalmente ou ao clicar \"Atualizar\". Para remover uma lista, a atualize sem um nome de usuário.",
 			"share_entries": {
 				"title": "Compartilhar Lista",
-				"MISSING-description": "Mostra quando um anime é de sua lista"
+				"description": "Mostra quando um anime é da sua lista"
 			},
-			"show_scores": { "title": "Mostrar Notas", "MISSING-description": "Mostra a nota de cada anime de sua lista" },
+			"show_scores": { "title": "Mostrar Notas", "description": "Mostra a nota de cada anime de sua lista" },
 			"anilist_username": "Usuário do AniList",
 			"mal_username": "Usuário do MyAnimeList",
 			"mal_username_short": "Usuário do MAL",
@@ -771,7 +771,7 @@
 			"particle_effects": {
 				"title": "Efeitos de Partícula",
 				"description": "Controla o numero de partículas utilizadas nos efeitos, por exemplo, na animação ao ganhar pontos de experiência.",
-				"levels": { "off": "Desligado", "low": "Pouco", "high": "Bastante" }
+				"levels": { "off": "Desligado", "low": "Pouco", "high": "Muito" }
 			},
 			"disable_floating_text": {
 				"title": "Desativar Texto Flutuante",
@@ -780,7 +780,7 @@
 			"name_effects_friend_list": "Efeitos de Nome na Lista de Amigos"
 		},
 		"audio": { "nexus": "Nexus", "master": "Mestre", "music": "Música", "effects": "Efeitos" },
-		"DELETED-Áudio": { "nexus": "Nexus", "master": "Mestre", "music": "Musica", "effects": "Efeitos" }
+		"DELETED-Áudio": { "nexus": "Nexus", "master": "Mestre", "music": "Música", "effects": "Efeitos" }
 	},
 	"blocked_player_window": { "title": "Lista de Jogadores Bloqueados", "remove_button": "Remover" },
 	"change_password_window": {
@@ -822,119 +822,119 @@
 		"title": "Diretrizes",
 		"description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it’s important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
 		"dont_cheat": {
-			"MISSING-title": "Não Trapaceie",
-			"MISSING-text": "Usar qualquer tipo de software externo ou ferramenta que garanta uma vantagem injusta é considerado cheating. Isso em geral inclui, mas não se limita a, ferramentas que revelam informação extra sobre a musica, video ou serie."
+			"title": "Não Trapaceie",
+			"text": "Usar qualquer tipo de software externo ou ferramenta que garanta uma vantagem injusta é considerado cheating. Isso em geral inclui, mas não se limita a, ferramentas que revelam informação extra sobre a música, video ou serie."
 		},
 		"no_teaming": {
-			"MISSING-title": "Sem Times nos Jogos Classificatórios",
-			"MISSING-text": "Jogos Classificatórios tem o objetivos de testar habilidades individuais. Fazer times ou compartilhar respostas com outros jogadores é estritamente proibido. Foram dos classificatórios (E do Jam) você é mais que bem-vindo para compartilhar respostas com amigos se os donos da sala estiverem OK com isso, mas não o faça nos classificatórios."
+			"title": "Sem Times nos Jogos Classificatórios",
+			"text": "Jogos Classificatórios tem o objetivos de testar habilidades individuais. Fazer times ou compartilhar respostas com outros jogadores é estritamente proibido. Foram dos classificatórios (E do Jam) você é mais que bem-vindo para compartilhar respostas com amigos se os donos da sala estiverem OK com isso, mas não o faça nos classificatórios."
 		},
 		"no_automated_grind": {
-			"MISSING-title": "Sem Grind (Semi-)Automático",
-			"MISSING-text": "Não tem problema grindar notas ou tickets, desde que você se esforce. Mas usar qualquer ferramenta ou método para automatizar ou semi-automatizar o grind é estritamente contra as regras, e resultará em um banimento permanente. Isso inclui grinding AFK em salas de time."
+			"title": "Sem Grind (Semi-)Automático",
+			"text": "Não tem problema grindar notas ou tickets, desde que você se esforce. Mas usar qualquer ferramenta ou método para automatizar ou semi-automatizar o grind é estritamente contra as regras, e resultará em um banimento permanente. Isso inclui grinding AFK em salas de time."
 		},
 		"dont_harass": {
-			"MISSING-title": "Sem Bullying com Outros Jogadores",
-			"MISSING-text": "O jogo é para todos, então bullying não será tolerado. Tudo bem praticar trash-talking entre amigos, mas tenha certeza de que todos estão confortáveis com isso."
+			"title": "Sem Bullying com Outros Jogadores",
+			"text": "O jogo é para todos, então bullying não será tolerado. Tudo bem praticar trash-talking entre amigos, mas tenha certeza de que todos estão confortáveis com isso."
 		},
 		"no_hate_speech": {
-			"MISSING-title": "Sem Discurso de Odio ou Racismo",
-			"MISSING-text": "Isso é algo obvio, mas sejam bons uns com os outros e não fique soltando ofensas raciais."
+			"title": "Sem Discurso de Ódio ou Racismo",
+			"text": "Isso é algo óbvio, mas sejam bons uns com os outros e não fique soltando ofensas racistas."
 		}
 	},
 	"about_window": {
-		"MISSING-title": "Sobre",
-		"MISSING-developed_by": "Desenvolvido por _NAME_",
-		"MISSING-development": "Desenvolvimento",
-		"MISSING-art": "Arte",
-		"MISSING-sound_and_audio": "Som e Áudio",
-		"MISSING-special_thanks": "Agradecimentos Especiais",
-		"MISSING-credits": "Créditos"
+		"title": "Sobre",
+		"developed_by": "Desenvolvido por _NAME_",
+		"development": "Desenvolvimento",
+		"art": "Arte",
+		"sound_and_audio": "Som e Áudio",
+		"special_thanks": "Agradecimentos Especiais",
+		"credits": "Créditos"
 	},
 	"avatar_window": {
-		"MISSING-nothing_selected": "Nenhum Selecionado _BREAK_ Selecione Acima",
-		"MISSING-collapse_all": "Fechar Todos",
-		"MISSING-open_all": "Abrir Todos",
+		"nothing_selected": "Nenhum Selecionado _BREAK_ Selecione Acima",
+		"collapse_all": "Fechar Todos",
+		"open_all": "Abrir Todos",
 		"rhythm": {
-			"MISSING-title": "Ritmo",
-			"MISSING-description": "Moeda obtida ao dar roll em cópias via o Sistema de Tickets. Pode ser usado para desbloquear recompensas de tickets.",
-			"MISSING-duplicate": "Cópia, ritmo ganho"
+			"title": "Ritmo",
+			"description": "Moeda obtida ao dar roll em cópias via o Sistema de Tickets. Pode ser usado para desbloquear recompensas de tickets.",
+			"duplicate": "Cópia, ritmo ganho"
 		},
 		"resonance_system": {
-			"MISSING-target": "Alvo",
-			"MISSING-title": "Sistema de Ressonância",
+			"target": "Alvo",
+			"title": "Sistema de Ressonância",
 			"target_messages": {
-				"MISSING-target_message": "Alvo no Sistema de Ressonância",
-				"MISSING-require_base_skin": "Requer a Skin Base para ser Selecionada",
-				"MISSING-rare_common": "Skins Raras/Comuns não podem ser Selecionadas"
+				"target_message": "Alvo no Sistema de Ressonância",
+				"require_base_skin": "Requer a Skin Base para ser Selecionada",
+				"rare_common": "Skins Raras/Comuns não podem ser Selecionadas"
 			},
-			"MISSING-no_target": "Nenhum Alvo Selecionado",
-			"MISSING-no_target_description": "Selecione uma skin/avatar por meio da loja.",
-			"MISSING-target_set": "Alvo da Ressonância Selecionado",
+			"no_target": "Nenhum Alvo Selecionado",
+			"no_target_description": "Selecione uma skin/avatar por meio da loja.",
+			"target_set": "Alvo da Ressonância Selecionado",
 			"how_it_works": {
-				"MISSING-title": "Como Funciona",
-				"MISSING-description": "Seleciona um avatar/skin épico ou lendário na loja, e ganhe pontos para este toda a vez que você der rolls no Sistema de Tickets, pontos dobrados se você usar um token de avatar no alvo. _BREAK_ Ao ganhar pontos suficientes (200 para épicas, 500 para lendárias) o alvo é desbloqueado!_BREAK_ Você pode mudar seu alvo a qualquer momento, mas isso reduzirá seus pontos pela metade. _BREAK_ Você pode selecionar avatares de temporada/tempo-limitado, mas você pode acumular pontos para eles enquanto eles estiverem na rotação."
+				"title": "Como Funciona",
+				"description": "Selecione um avatar/skin épico ou lendário na loja, e ganhe pontos para este toda a vez que você der rolls no Sistema de Tickets, pontos dobrados se você usar um token de avatar no alvo. _BREAK_ Ao ganhar pontos suficientes (200 para épicas, 500 para lendárias) o alvo é desbloqueado!_BREAK_ Você pode mudar seu alvo a qualquer momento, mas isso reduzirá seus pontos pela metade. _BREAK_ Você pode selecionar avatares de temporada/tempo-limitado, mas você pode acumular pontos para eles enquanto eles estiverem na rotação."
 			},
 			"set_target_prompt": {
-				"MISSING-title": "Selecionar Skin como Alvo de Ressonância?",
-				"MISSING-description": "Rolls de Tickets vão garantir pontos para desbloquear esse avatar/skin. Alvos podem ser trocados, ao custo de 50% dos pontos de ressonância acumulados.",
-				"MISSING-confirm_button": "Selecionar Alvo"
+				"title": "Selecionar Skin como Alvo de Ressonância?",
+				"description": "Rolls de Tickets vão garantir pontos para desbloquear esse avatar/skin. Alvos podem ser trocados, ao custo de 50% dos pontos de ressonância acumulados.",
+				"confirm_button": "Selecionar Alvo"
 			},
 			"seasonal_target_prompt": {
-				"MISSING-title": "Alvo de Temporada",
-				"MISSING-description": "Pontos de Ressonância só podem serem ganhos enquanto o alvo estiver em rotação. Selecionar mesmo assim?",
-				"MISSING-confirm_button": "Sim"
+				"title": "Alvo de Temporada",
+				"description": "Pontos de Ressonância só podem serem ganhos enquanto o alvo estiver em rotação. Selecionar mesmo assim?",
+				"confirm_button": "Sim"
 			},
 			"swap_target_prompt": {
-				"MISSING-title": "Trocar Alvo da Ressonância?",
-				"MISSING-description": "Isso custará 50% dos seus pontos de ressonância atuais.",
-				"MISSING-confirm_button": "Trocar Alvo"
+				"title": "Trocar Alvo da Ressonância?",
+				"description": "Isso custará 50% dos seus pontos de ressonância atuais.",
+				"confirm_button": "Trocar Alvo"
 			},
 			"target_no_active_warning": {
-				"MISSING-title": "Alvo da Ressonância Desativado",
-				"MISSING-description": "Pontos de Ressonância não podem ser acumulados para alvos desativados, então rolls não recompensarão pontos de recompensa."
+				"title": "Alvo da Ressonância Desativado",
+				"description": "Pontos de Ressonância não podem ser acumulados para alvos desativados, então rolls não recompensarão pontos de recompensa."
 			},
 			"resonance_limit_warning": {
-				"MISSING-title": "Limite de Ressonância Atingido",
-				"MISSING-description": "Acumule pontos dos seus rolls para garantir desbloqueios ao selecionar um avatar/skin épico ou lendario roll-avel. Pontos serão perdidos sem um alvo. Para mais detalhes, selecione a aba da seleção à esquerda."
+				"title": "Limite de Ressonância Atingido",
+				"description": "Acumule pontos dos seus rolls para garantir desbloqueios ao selecionar um avatar/skin épico ou lendario roll-avel. Pontos serão perdidos sem um alvo. Para mais detalhes, selecione a aba da seleção à esquerda."
 			},
 			"resonance_different_target_warning": {
-				"MISSING-title": "Alvo Diferente da Ressonância",
-				"MISSING-description": "O alvo dos Tokens é diferente do alvo da ressonância, o roll não recompensará pontos de ressonância extras."
+				"title": "Alvo Diferente da Ressonância",
+				"description": "O alvo dos Tokens é diferente do alvo da ressonância, o roll não recompensará pontos de ressonância extras."
 			}
 		},
 		"favorites": {
-			"MISSING-no_favorite_selected": "Nenhum Favorito Selecionado _BREAK_ Escolha Algo Clicando no _BREAK_ _ICON_ em Avatares Desbloqueados",
+			"no_favorite_selected": "Nenhum Favorito Selecionado _BREAK_ Escolha Algo Clicando no _BREAK_ _ICON_ em Avatares Desbloqueados",
 			"auto_switch": {
-				"MISSING-description": "Troque automaticamente entre seus avatares favoritos no final de cada partida",
-				"MISSING-auto_switch": "Troca Automática",
-				"mode": { "MISSING-random": "Aleatório", "MISSING-off": "Desligado", "MISSING-cycle": "Ciclo" }
+				"description": "Troque automaticamente entre seus avatares favoritos no final de cada partida",
+				"auto_switch": "Troca Automática",
+				"mode": { "random": "Aleatório", "off": "Desligado", "cycle": "Ciclo" }
 			}
 		},
 		"filters": {
-			"locked": { "MISSING-title": "Bloqueado", "MISSING-description": "Mostra o conteúdo que você não desbloqueou" },
-			"unlocked": { "MISSING-title": "Desbloqueado", "MISSING-description": "Mostra o conteúdo que você desbloqueou" },
+			"locked": { "Mtitle": "Bloqueado", "description": "Mostra o conteúdo que você não desbloqueou" },
+			"unlocked": { "title": "Desbloqueado", "description": "Mostra o conteúdo que você desbloqueou" },
 			"available": {
-				"MISSING-title": "Disponível",
-				"MISSING-description": "Mostra o conteúdo que está disponível para ser desbloqueado na loja"
+				"title": "Disponível",
+				"description": "Mostra o conteúdo que está disponível para ser desbloqueado na loja"
 			},
 			"unavailable": {
-				"MISSING-title": "Indisponível",
-				"MISSING-description": "Mostra o conteúdo que não está atualmente disponível para ser desbloqueado na loja"
+				"title": "Indisponível",
+				"description": "Mostra o conteúdo que não está atualmente disponível para ser desbloqueado na loja"
 			},
 			"limited": {
-				"MISSING-title": "Limitado",
-				"MISSING-description": "Mostra o conteúdo que só está disponível por tempo limitado"
+				"title": "Limitado",
+				"description": "Mostra o conteúdo que só está disponível por tempo limitado"
 			},
 			"unlimited": {
-				"MISSING-title": "Ilimitado",
-				"MISSING-description": "Mostra conteúdo que está sempre disponível para desbloqueio"
+				"title": "Ilimitado",
+				"description": "Mostra conteúdo que está sempre disponível para desbloqueio"
 			},
 			"exclusive": {
-				"MISSING-title": "Exclusivo",
-				"MISSING-description": "Mostra conteúdo desbloqueado através dos sistemas de ticket"
+				"title": "Exclusivo",
+				"description": "Mostra conteúdo desbloqueado através dos sistemas de ticket"
 			},
-			"standard": { "MISSING-title": "Padrão", "MISSING-description": "Mostra conteúdo desbloqueável com notas" },
+			"standard": { "title": "Padrão", "description": "Mostra conteúdo desbloqueável com notas" },
 			"MISSING-title": "Filters"
 		},
 		"MISSING-background": "Background",
