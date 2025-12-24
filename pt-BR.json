@@ -5480,138 +5480,138 @@
 		"MISSING-yan": "Yan"
 	},
 	"daily_quests": {
-		"MISSING-title": "Daily Quests",
+		"title": "Missões Diárias",
 		"description": {
-			"MISSING-title": "Daily Quests",
-			"MISSING-description": "Complete daily quests to earn bonus notes, and earn an avatar token for every 7 quest completed! A new quest becomes available every day at 12:00 CET, and you’ll have 7 days to complete it."
+			"title": "Missões Diárias",
+			"description": "Complete missões diárias para ganhar notas bônus, e um token de avatar para cada 7 missões completas! Uma nova missão fica disponível todo dia às 20:00 GMT-3, e você terá 7 dias para completá-la."
 		},
-		"MISSING-event_quest": "Event Quest",
-		"MISSING-weekly_quest": "Weekly Quest",
+		"event_quest": "Missão de Evento",
+		"weekly_quest": "Missão Semanal",
 		"category": {
-			"MISSING-monday": "Mon",
-			"MISSING-tuesday": "Tue",
-			"MISSING-wednesday": "Wed",
-			"MISSING-thursday": "Thu",
-			"MISSING-friday": "Fri",
-			"MISSING-saturday": "Sat",
-			"MISSING-sunday": "Sun",
-			"MISSING-event": "Eve"
+			"monday": "Seg",
+			"tuesday": "Ter",
+			"wednesday": "Qua",
+			"thursday": "Qui",
+			"friday": "Sex",
+			"saturday": "Sáb",
+			"sunday": "Dom",
+			"event": "Eve"
 		},
-		"MISSING-quest_description": "_DESCRIPTION_ _BREAK_ Reward: _NUMBER_ notes _BREAK_ Resets _DATE_",
+		"quest_description": "_DESCRIPTION_ _BREAK_ Recompensa: _NUMBER_ notas _BREAK_ Reseta _DATE_",
 		"quests": {
 			"br_flex": {
-				"MISSING-title": "BR Flex",
-				"MISSING-description": "Guess 20 songs you didn't loot, in non-team games with looting enabled"
+				"title": "BR Flex",
+				"description": "Acerte 20 músicas que você não coletou, em partidas individuais com coleta ativada"
 			},
 			"master_rigger": {
 				"MISSING-title": "Master Rigger",
-				"MISSING-description": "Guess 20 songs from your anime list, in non-team games"
+				"description": "Acerte 20 músicas da sua lista de anime, em partidas individuais"
 			},
 			"survivor": {
-				"MISSING-title": "Survivor",
-				"MISSING-description": "Survive 10 rounds when playing with lives, in non-team games"
+				"title": "Sobrevivente",
+				"description": "Sobreviva 10 rodadas ao jogar com vidas, em partidas individuais"
 			},
 			"master_sniper": {
 				"MISSING-title": "Master Sniper",
-				"MISSING-description": "Guess 20 songs not from your anime list, in non-team games"
+				"description": "Acerte 20 músicas que não são da sua lista de anime, em partidas individuais"
 			},
 			"lightning_fast": {
-				"MISSING-title": "Lightning Fast",
-				"MISSING-description": "Guess 20 songs within the first 7 seconds of it, in non-team games"
+				"title": "Relâmpago",
+				"description": "Acerte 20 músicas dentro de 7 segundos de cada, em partidas individuais"
 			},
 			"i_love_that_show": {
-				"MISSING-title": "I Love That Show",
-				"MISSING-description": "Guess 20 songs from shows you've scored 8+ in your anime list, in non-team games"
+				"title": "Eu Amo Aquele Anime",
+				"description": "Acerte 20 músicas de animes que você avaliou 8+ na sua lista de anime, em partidas individuais"
 			},
 			"keeping_up_to_date": {
-				"MISSING-title": "Keeping Up To Date",
-				"MISSING-description": "Guess 20 songs from shows released in the 4 latest anime seasons, in non-team games"
+				"title": "Mantendo-se Atualizado",
+				"description": "Acerte 20 músicas de animes lançados nas últimas 4 temporadas, em partidas individuais"
 			},
 			"dont_skip_openings": {
-				"MISSING-title": "Don't Skip Openings",
-				"MISSING-description": "Guess 20 opening songs, in non-team games"
+				"title": "Não Pule Aberturas",
+				"description": "Acerte 20 aberturas, em partidas individuais"
 			},
 			"dont_skip_endings": {
-				"MISSING-title": "Don't Skip Endings",
-				"MISSING-description": "Guess 20 ending songs, in non-team games"
+				"title": "Não Pule Encerramentos",
+				"description": "Acerte 20 encerramentos, em partidas individuais"
 			},
 			"dont_skip_inserts": {
-				"MISSING-title": "Don't Skip Inserts",
-				"MISSING-description": "Guess 20 insert songs, in non-team games"
+				"title": "Não Pule Inserções",
+				"description": "Acerte 20 inserções, em partidas individuais"
 			},
 			"action_fan": {
-				"MISSING-title": "Action Fan",
-				"MISSING-description": "Guess 20 songs from action shows, in non-team games"
+				"title": "Fã de Ação",
+				"description": "Acerte 20 músicas de animes de ação, em partidas individuais"
 			},
 			"adventure_fan": {
-				"MISSING-title": "Adventure Fan",
-				"MISSING-description": "Guess 20 songs from adventure shows, in non-team games"
+				"title": "Fã de Aventura",
+				"description": "Acerte 20 músicas de animes de aventura, em partidas individuais"
 			},
 			"comedy_fan": {
-				"MISSING-title": "Comedy Fan",
-				"MISSING-description": "Guess 20 songs from comedy shows, in non-team games"
+				"title": "Fã de Comédia",
+				"description": "Acerte 20 músicas de animes de comédia, em partidas individuais"
 			},
 			"drama_fan": {
-				"MISSING-title": "Drama Fan",
-				"MISSING-description": "Guess 20 songs from drama shows, in non-team games"
+				"title": "Fã de Drama",
+				"description": "Acerte 20 músicas de animes de drama, em partidas individuais"
 			},
 			"ecchi_fan": {
-				"MISSING-title": "Ecchi Fan",
-				"MISSING-description": "Guess 20 songs from ecchi shows, in non-team games"
+				"title": "Fã de Ecchi",
+				"description": "Acerte 20 músicas de animes de ecchi, em partidas individuais"
 			},
 			"fantasy_fan": {
-				"MISSING-title": "Fantasy Fan",
-				"MISSING-description": "Guess 20 songs from fantasy shows, in non-team games"
+				"title": "Fã de Fantasia",
+				"description": "Acerte 20 músicas de animes de fantasia, em partidas individuais"
 			},
 			"horror_fan": {
-				"MISSING-title": "Horror Fan",
-				"MISSING-description": "Guess 20 songs from horror shows, in non-team games"
+				"title": "Fã de Horror",
+				"description": "Acerte 20 músicas de animes de horror, em partidas individuais"
 			},
 			"mahou_shoujo_fan": {
-				"MISSING-title": "Mahou Shoujo Fan",
-				"MISSING-description": "Guess 20 songs from mahou shoujo shows, in non-team games"
+				"title": "Fã de Mahou Shoujo",
+				"description": "Acerte 20 músicas de animes de mahou shoujo, em partidas individuais"
 			},
 			"mecha_fan": {
-				"MISSING-title": "Mecha Fan",
-				"MISSING-description": "Guess 20 songs from mecha shows, in non-team games"
+				"title": "Fã de Mecha",
+				"description": "Acerte 20 músicas de animes de mecha, em partidas individuais"
 			},
 			"music_fan": {
-				"MISSING-title": "Music Fan",
-				"MISSING-description": "Guess 20 songs from music shows, in non-team games"
+				"title": "Fã de Música",
+				"description": "Acerte 20 músicas de animes de música, em partidas individuais"
 			},
 			"mystery_fan": {
-				"MISSING-title": "Mystery Fan",
-				"MISSING-description": "Guess 20 songs from mystery shows, in non-team games"
+				"title": "Fã de Mistério",
+				"description": "Acerte 20 músicas de animes de mistério, em partidas individuais"
 			},
 			"psychological_fan": {
-				"MISSING-title": "Psychological Fan",
-				"MISSING-description": "Guess 20 songs from psychological shows, in non-team games"
+				"title": "Fã de Psicológico",
+				"description": "Acerte 20 músicas de animes de psicológico, em partidas individuais"
 			},
 			"romance_fan": {
-				"MISSING-title": "Romance Fan",
-				"MISSING-description": "Guess 20 songs from romance shows, in non-team games"
+				"title": "Fã de Romance",
+				"description": "Acerte 20 músicas de animes de romance, em partidas individuais"
 			},
 			"sci-fi_fan": {
-				"MISSING-title": "Sci-Fi Fan",
-				"MISSING-description": "Guess 20 songs from sci-fi shows, in non-team games"
+				"title": "Fã de Ficção Científica",
+				"description": "Acerte 20 músicas de animes de ficção científica, em partidas individuais"
 			},
 			"slice_of_life_fan": {
-				"MISSING-title": "Slice of Life Fan",
-				"MISSING-description": "Guess 20 songs from slice of fife shows, in non-team games"
+				"title": "Fã de Slice of Life",
+				"description": "Acerte 20 músicas de animes de slice of life, em partidas individuais"
 			},
 			"sports_fan": {
-				"MISSING-title": "Sports Fan",
-				"MISSING-description": "Guess 20 songs from sports shows, in non-team games"
+				"title": "Fã de Esportes",
+				"description": "Acerte 20 músicas de animes de esportes, em partidas individuais"
 			},
 			"supernatural_fan": {
-				"MISSING-title": "Supernatural Fan",
-				"MISSING-description": "Guess 20 songs from supernatural shows, in non-team games"
+				"title": "Fão de Sobrenatural",
+				"description": "Acerte 20 músicas de animes de sobrenatural, em partidas individuais"
 			},
 			"thriller_fan": {
-				"MISSING-title": "Thriller Fan",
-				"MISSING-description": "Guess 20 songs from thriller shows, in non-team games"
+				"title": "Fã de Suspense",
+				"description": "Acerte 20 músicas de animes de suspense, em partidas individuais"
 			},
-			"just_jamming": { "MISSING-title": "Just Jamming", "MISSING-description": "Guess 20 songs in the Jam Quiz" }
+			"just_jamming": { "title": "Apenas Curtindo", "description": "Acerte 20 músicas no Jam Quiz" }
 		}
 	}
 }
